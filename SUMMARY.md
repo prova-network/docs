@@ -47,6 +47,9 @@
 * [Become a prover](provers/become-a-prover.md)
 * [Hardware requirements](provers/hardware.md)
 * [Earnings calculator](provers/earnings.md)
+* [Hobby prover](provers/hobby.md)
+* [Prosumer prover](provers/prosumer.md)
+* [Enterprise prover](provers/enterprise.md)
 
 ## Reference
 
