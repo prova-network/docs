@@ -35,6 +35,8 @@
 * [prova ls](cli/ls.md)
 * [prova whoami](cli/whoami.md)
 * [prova logout](cli/logout.md)
+* [prova hash](cli/hash.md)
+* [prova verify](cli/verify.md)
 
 ## SDK
 
